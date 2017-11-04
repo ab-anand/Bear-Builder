@@ -1,0 +1,7 @@
+{
+  "name": "Bear Builder",
+  "description": "Dress the bear your way",
+  "repository": "https://github.com/ab-anand/Bear-Builder",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["flask", "cookies"]
+}
